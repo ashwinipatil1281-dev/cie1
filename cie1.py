@@ -11,5 +11,5 @@ else:
    RC_expiry_year=2030
 print("car number:{car_number}")
 print("owner name:{owner_name}")
-print("vehicle type:{vehicle_type")
+print("vehicle type:{vehicle_type}")
 print("RC expiry year: {RC_expiry_year}")

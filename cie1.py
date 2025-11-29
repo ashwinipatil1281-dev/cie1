@@ -9,7 +9,7 @@ else:
    owner_name="abc"
    vehicle_type="BMW"
    RC_expiry_year=2030
-print("car number:",sys.argv[1])
-print("owner name:",sys.argv[2])
-print("vehicle type:",sys.argv[3])
-print("RC expiry year:",sys.argv[4])
+print("car number:{car_number}")
+print("owner name:{owner_name}")
+print("vehicle type:{vehicle_type")
+print("RC expiry year: {RC_expiry_year}")

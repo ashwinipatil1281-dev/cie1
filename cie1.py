@@ -6,8 +6,8 @@ if len(sys.argv)<4:
    RC_expiry_year=sys.argv[4]
 else:
    car_number=9876
-   owner_name=abc
-   vehicle_type=BMW
+   owner_name="abc"
+   vehicle_type="BMW"
    RC_expiry_year=2030
 print("car number:",number)
 print("owner name:",name)

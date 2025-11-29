@@ -10,6 +10,6 @@ else:
    vehicle_type="BMW"
    RC_expiry_year=2030
 print("car number:",sys.argv[1])
-print("owner name:",sys.argv[2)
+print("owner name:",sys.argv[2])
 print("vehicle type:",sys.argv[3])
 print("RC expiry year:",sys.argv[4])

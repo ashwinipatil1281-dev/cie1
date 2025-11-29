@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv)<4
+if len(sys.argv)<4:
    car number=sys.argv[1]
    owner name=sys.argv[2]
    vehicle type=sys.argv[3]

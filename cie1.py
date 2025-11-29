@@ -4,7 +4,7 @@ if len(sys.argv) > 4:
     car_number =sys.argv[1]
     owner_name = sys.argv[2]
     vehicle_type = sys.argv[3]
-    RC_expiry_year = sys.argv[4])
+    RC_expiry_year = sys.argv[4]
 else:
     car_number = 9887
     owner_name = "abc"
